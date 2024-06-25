@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\QLDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|d:\\c#\\qlda\\qlda\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|solutionrelative:qlda\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|d:\\c#\\qlda\\qlda\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|solutionrelative:qlda\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|d:\\c#\\qlda\\qlda\\newfolder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|solutionrelative:qlda\\newfolder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|d:\\c#\\qlda\\qlda\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|solutionrelative:qlda\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|d:\\c#\\qlda\\qlda\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|solutionrelative:qlda\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|d:\\c#\\qlda\\qlda\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|solutionrelative:qlda\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|d:\\c#\\qlda\\qlda\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|solutionrelative:qlda\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|d:\\c#\\qlda\\qlda\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|solutionrelative:qlda\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|d:\\c#\\qlda\\qlda\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91E40FF7-57F6-410F-8437-72EFFE3BD492}|QLDA\\QLDA.csproj|solutionrelative:qlda\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrangChu.cs",
+              "DocumentMoniker": "D:\\C#\\QLDA\\QLDA\\TrangChu.cs",
+              "RelativeDocumentMoniker": "QLDA\\TrangChu.cs",
+              "ToolTip": "D:\\C#\\QLDA\\QLDA\\TrangChu.cs",
+              "RelativeToolTip": "QLDA\\TrangChu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:11:31.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\QLDA\\QLDA\\TrangChu.cs",
+              "RelativeDocumentMoniker": "QLDA\\TrangChu.cs",
+              "ToolTip": "D:\\C#\\QLDA\\QLDA\\TrangChu.cs [Design]",
+              "RelativeToolTip": "QLDA\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:54:24.986Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\C#\\QLDA\\QLDA\\Login.cs",
+              "RelativeDocumentMoniker": "QLDA\\Login.cs",
+              "ToolTip": "D:\\C#\\QLDA\\QLDA\\Login.cs",
+              "RelativeToolTip": "QLDA\\Login.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwB8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:50:37.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\QLDA\\QLDA\\Login.cs",
+              "RelativeDocumentMoniker": "QLDA\\Login.cs",
+              "ToolTip": "D:\\C#\\QLDA\\QLDA\\Login.cs [Design]",
+              "RelativeToolTip": "QLDA\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:43:25.234Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\QLDA\\QLDA\\NewFolder\\Program.cs",
+              "RelativeDocumentMoniker": "QLDA\\NewFolder\\Program.cs",
+              "ToolTip": "D:\\C#\\QLDA\\QLDA\\NewFolder\\Program.cs",
+              "RelativeToolTip": "QLDA\\NewFolder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:41:14.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "attachment.cs",
+              "DocumentMoniker": "D:\\C#\\QLDA\\QLDA\\attachment.cs",
+              "RelativeDocumentMoniker": "QLDA\\attachment.cs",
+              "ToolTip": "D:\\C#\\QLDA\\QLDA\\attachment.cs",
+              "RelativeToolTip": "QLDA\\attachment.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAswNYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:40:25.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "attachment.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\QLDA\\QLDA\\attachment.cs",
+              "RelativeDocumentMoniker": "QLDA\\attachment.cs",
+              "ToolTip": "D:\\C#\\QLDA\\QLDA\\attachment.cs [Design]",
+              "RelativeToolTip": "QLDA\\attachment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:25:35.999Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "document.cs",
+              "DocumentMoniker": "D:\\C#\\QLDA\\QLDA\\document.cs",
+              "RelativeDocumentMoniker": "QLDA\\document.cs",
+              "ToolTip": "D:\\C#\\QLDA\\QLDA\\document.cs",
+              "RelativeToolTip": "QLDA\\document.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:17:57.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "document.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\QLDA\\QLDA\\document.cs",
+              "RelativeDocumentMoniker": "QLDA\\document.cs",
+              "ToolTip": "D:\\C#\\QLDA\\QLDA\\document.cs [Design]",
+              "RelativeToolTip": "QLDA\\document.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:07:01.818Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
